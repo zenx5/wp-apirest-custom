@@ -1,0 +1,20 @@
+{
+    
+    "require": {
+        "guzzlehttp/guzzle": "7.2",
+        "zenx5/plugink": "dev-main"
+    },
+    "autoload": {
+        "files":[
+            "clases/class-apirest-custom.php"
+        ]
+    },
+    "repositories": [
+        {
+            "type":"vcs",
+            "url": "https://github.com/zenx5/plugin-base-k.git"
+        }
+    ]
+
+
+}
